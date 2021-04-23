@@ -1,0 +1,12 @@
+{
+  "name": "com.batch8.main",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "Draw.js",
+  "scripts": {
+    "start": "node Draw.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rufus",
+  "license": "ISC"
+}
